@@ -26,7 +26,7 @@ nav {
     justify-content: space-between;
     background-color: #111;
     z-index: 10;
-    
+    cursor: pointer;
 }
 
 nav h1 {
@@ -307,6 +307,7 @@ margin-top: 0.5vw;
     padding: 4.3vw;
     border-radius: 50%;
     background-color: #fff;
+    cursor: pointer;
 }
 
 .page3-center .icon i{
@@ -489,6 +490,7 @@ margin-top: 0.5vw;
     border: none;
     position: sticky;
     top: 15%;
+    cursor: pointer;
 }
 
 #page6-right {
@@ -509,6 +511,7 @@ margin-top: 0.5vw;
     width: 100%;
     margin-top: 5vh;
     padding: 5vh 0;
+    cursor: pointer;
 }
 
 #page6-content h1 {
@@ -667,6 +670,7 @@ summary::marker {
     display: flex;
     align-items: center;
     justify-content: center;
+    cursor: pointer;
 }
 
 #blue-btn h4 {
